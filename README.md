@@ -1,4 +1,3 @@
-# AboutMe
 
 <h1 align="center">Hi 👋, I'm K1M4K-ID</h1>
 <h3 align="center">Founder - Hacker Room Academy <./HRA></h3>
